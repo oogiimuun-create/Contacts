@@ -7,6 +7,7 @@ export default function Home() {
 
       <Link href={"/about"}></Link>
       <Link href={"/Contact"}></Link>
+      <Link href={"/experience"}></Link>
     </div>
   );
 }
